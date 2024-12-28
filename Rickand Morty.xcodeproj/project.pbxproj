@@ -103,7 +103,6 @@
 			isa = PBXGroup;
 			children = (
 				0DCDF7AD2C8B0F2E0095C1F6 /* Resources */,
-				0DCDF7AC2C8B0EF10095C1F6 /* Managers */,
 				0DCDF7AB2C8B0ECE0095C1F6 /* API Client */,
 				0DCDF7A92C8B0E980095C1F6 /* Models */,
 				0DCDF7A72C8B0E830095C1F6 /* ViewModels */,
@@ -159,13 +158,6 @@
 				0DCDF7CC2C8B35630095C1F6 /* RMEndpoint.swift */,
 			);
 			path = "API Client";
-			sourceTree = "<group>";
-		};
-		0DCDF7AC2C8B0EF10095C1F6 /* Managers */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Managers;
 			sourceTree = "<group>";
 		};
 		0DCDF7AD2C8B0F2E0095C1F6 /* Resources */ = {
