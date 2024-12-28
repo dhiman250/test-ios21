@@ -11,6 +11,10 @@ class RMCharacterDetailViewController: UIViewController {
     private let viewModel: RMCharacterDetailViewViewModel
 
     // private let detailView: RMCharacterDetailView
+    // private let detailView: RMCharacterDetailView1
+    // private let detailView: RMCharacterDetailView2
+    // private let detailView: RMCharacterDetailView3
+
 
     init(viewModel: RMCharacterDetailViewViewModel) {
         self.viewModel = viewModel
