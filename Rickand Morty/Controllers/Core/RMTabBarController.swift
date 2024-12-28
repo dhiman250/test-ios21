@@ -46,6 +46,9 @@ final class RMTabBarController: UITabBarController {
 //        nav4.tabBarItem = UITabBarItem(title: "Settings",
 //                                       image: UIImage(systemName: "gear"),
 //                                       tag: 4)
+//        nav4.tabBarItem = UITabBarItem(title: "Settings",
+//                                       image: UIImage(systemName: "gear"),
+//                                       tag: 5)
 
 
         for nav in [nav1, nav2, nav3, nav4] {
