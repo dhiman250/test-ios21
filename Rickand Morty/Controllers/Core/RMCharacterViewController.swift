@@ -28,6 +28,12 @@ final class RMCharacterViewController: UIViewController, RMCharacterListViewDele
             characterListView.rightAnchor.constraint(equalTo: view.safeAreaLayoutGuide.rightAnchor),
             characterListView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor),
         ])
+//        NSLayoutConstraint.activate([
+//            characterListView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
+//            characterListView.leftAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leftAnchor),
+//            characterListView.rightAnchor.constraint(equalTo: view.safeAreaLayoutGuide.rightAnchor),
+//            characterListView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor),
+//        ])
     }
 
     // MARK: - RMCharacterListViewDelegate

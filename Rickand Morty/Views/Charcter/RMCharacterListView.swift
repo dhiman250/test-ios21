@@ -67,6 +67,17 @@ class RMCharacterListView: UIView {
             collectionView.rightAnchor.constraint(equalTo: rightAnchor),
             collectionView.bottomAnchor.constraint(equalTo: bottomAnchor),
         ])
+//        NSLayoutConstraint.activate([
+//            spinner.widthAnchor.constraint(equalToConstant: 100),
+//            spinner.heightAnchor.constraint(equalToConstant: 100),
+//            spinner.centerXAnchor.constraint(equalTo: centerXAnchor),
+//            spinner.centerYAnchor.constraint(equalTo: centerYAnchor),
+//
+//            collectionView.topAnchor.constraint(equalTo: topAnchor),
+//            collectionView.leftAnchor.constraint(equalTo: leftAnchor),
+//            collectionView.rightAnchor.constraint(equalTo: rightAnchor),
+//            collectionView.bottomAnchor.constraint(equalTo: bottomAnchor),
+//        ])
     }
 
     private func setUpCollectionView() {
