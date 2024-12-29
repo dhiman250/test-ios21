@@ -9,14 +9,6 @@ import UIKit
 
 class RMFooterLoadingCollectionReusableView: UICollectionReusableView {
     static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
-//    static let identifier = "RMFooterLoadingCollectionReusableView"
 
     private let spinner: UIActivityIndicatorView = {
         let spinner = UIActivityIndicatorView(style: .large)
