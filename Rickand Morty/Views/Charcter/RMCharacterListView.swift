@@ -9,13 +9,6 @@ import UIKit
 
 protocol RMCharacterListViewDelegate: AnyObject {
     func rmCharacterListView(_ characterListView: RMCharacterListView, didSelectCharacter character: RMCharacter)
-    
-//    func rmCharacterListView(_ characterListView: RMCharacterListView, didSelectCharacter character: RMCharacter)
-//    func rmCharacterListView(_ characterListView: RMCharacterListView, didSelectCharacter character: RMCharacter)
-//    
-//    func rmCharacterListView(_ characterListView: RMCharacterListView, didSelectCharacter character: RMCharacter)
-//    
-//    func rmCharacterListView(_ characterListView: RMCharacterListView, didSelectCharacter character: RMCharacter)
 }
 
 class RMCharacterListView: UIView {
